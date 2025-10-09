@@ -7,7 +7,7 @@ Millimeter-wave radar offers robust perception under visually degraded condition
 
 ## Method framework
 The framework consists of three core modules: Channel Decoupling, AoA Estimation, and InterDim-Attn Detection Network. “TDMA: off” indicates that in TDMA mode, the virtual channel decoupling module is bypassed. “DDMA: on” means that in DDMA mode, the module is activated to reconstruct virtual channels.
-![Our Project Architecture](method_2.png)
+![Our Project Architecture](assets/method_2.png)
 ## Main contribution
 We introduce Efficient-AoADet, a lightweight radar object detection framework that integrates physics-guided signal modeling with multi-task joint optimization. This approach significantly enhances detection efficiency while maintaining robust performance. The main contribution of this paper is threefold:
   * A physics-guided, task-adaptive AoA estimation module. Initialized from the FFT basis that replaces traditional angle-FFT with a learnable linear transform. This design enhances angular feature learning under end-to-end supervision while reducing computational and storage overhead.
