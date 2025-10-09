@@ -7,6 +7,7 @@ Millimeter-wave radar offers robust perception under visually degraded condition
 
 ## Method framework
 
+![Our Project Architecture](method_2.png)
 ## Main contribution
 We introduce Efficient-AoADet, a lightweight radar object detection framework that integrates physics-guided signal modeling with multi-task joint optimization. This approach significantly enhances detection efficiency while maintaining robust performance. The main contribution of this paper is threefold:
   * A physics-guided, task-adaptive AoA estimation module. Initialized from the FFT basis that replaces traditional angle-FFT with a learnable linear transform. This design enhances angular feature learning under end-to-end supervision while reducing computational and storage overhead.
