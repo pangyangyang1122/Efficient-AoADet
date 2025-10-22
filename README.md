@@ -22,6 +22,6 @@ Our proposed framework was initially validated on LD radar data, and subsequentl
 
 This project includes separate implementations tailored for the RADDet and RADIal datasets. 
 
-*   **[Code to be released upon acceptance][Code for RADDet Dataset](https://github.com/pangyangyang1122/Efficient-AoADet-RADDet.git)**: Implementation and instructions for the low-definition RADDet dataset. 
+*   **[Code to be released upon acceptance][Model for RADDet Dataset](https://github.com/pangyangyang1122/Efficient-AoADet-RADDet.git)**: Implementation and instructions for the low-definition RADDet dataset. 
 
-*   **[Code to be released upon acceptance][Code for RADIal Dataset](https://github.com/pangyangyang1122/Efficient-AoADet-RADIal.git)**: Implementation and instructions for the high-definition RADIal dataset.
+*   **[Code to be released upon acceptance][Model for RADIal Dataset](https://github.com/pangyangyang1122/Efficient-AoADet-RADIal.git)**: Implementation and instructions for the high-definition RADIal dataset.
